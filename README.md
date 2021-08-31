@@ -7,7 +7,7 @@ Technologies and tools I've used with this project:
 - REST API
 - Styled Components
 
-Src: https://github.com/web-deVVV/react-week-note-app/tree/master/src
+Src: https://github.com/DawidMaka/react-week-note-app/tree/master/src
 
 ## Details
 
@@ -16,7 +16,7 @@ Week Note App - In this application you can save, remove or edit your note for e
 ## Instalation
 
 ```sh
-git clone https://github.com/web-deVVV/react-week-note-app [folder-name]
+git clone https://github.com/DawidMaka/react-week-note-app [folder-name]
 cd [folder-name]
 cd _backend
 npm install
